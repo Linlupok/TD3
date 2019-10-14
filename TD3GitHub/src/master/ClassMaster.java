@@ -5,6 +5,6 @@ public class ClassMaster {
 	
 	// Enfin je crois...
 	
-	// Salut Davido
+	// Salut Davido !
 
 }
